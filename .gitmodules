@@ -1,0 +1,6 @@
+[submodule "themes"]
+	path = themes
+	url = git@github.com:catppuccin/kitty.git
+[submodule "kitty-themes"]
+	path = kitty-themes
+	url = git@github.com:catppuccin/kitty.git
